@@ -5,6 +5,6 @@ This repository contains all repository material that accompanies the collection
 
 You are free to fork, download, adapt, and use these resources. As the repositories linked here will stay static, individual authors may maintain and update their own repositories with more recent materials. We encourage you to go see what they're up to! As always, contributing back and crediting other instructors is greatly appreciated. 
 
-![[EnTwine Cover Image]](./EnTwine-Collection-Resources/Murphy_Fan_cover_final.jpg)
+![[EnTwine Cover Image]](./Murphy_Fan_cover_final.jpg)
 
 
