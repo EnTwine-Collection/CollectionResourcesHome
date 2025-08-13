@@ -8,21 +8,28 @@ You are free to fork, download, adapt, and use these resources. Amherst College 
 
 ##Section 1 
 Object 1: Jessica C. Linker’s Turtle Story
+
 Object 2: Jason Boyd’s Adaptation of Aesop’s “The Crow and the Pitcher”
 
 ##Section 2 
 Object 1: Emily K. Johnson and Anne Sullivan’s BeadED Adventures
+
 Object 2: Jordan Sterling Pike’s The Grand Goulding Hotel
 
 ##Section 3 
 Object 1: Science AL!VE’s Teaching with Twine Workshop for High School Teachers by Chris Kerslake and Shyong Quin Yap
+
 Object 2: Jaime Simons’s Empower Museum Learning with Twine!
+
 Object 3: Calvin Olsen’s Twi-Ku and Exploded Sonnet
 
 ##Section 4
 Object 1: Mohammed Rashid’s Queer City
+
 Object 2: Sai Vidyasri Giridharan’s Your Move
+
 Object 3: Shamanth Joshi’s Identity Games
+
 Object 4: Lee Skallerup Bessette’s Moving In and Out of Time
 
 
