@@ -6,35 +6,35 @@ At the links below you'll find all repository material that accompanies the coll
 
 You are free to fork, download, adapt, and use these resources. Amherst College Press material is published under a <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-Non Commercial license</a>. The repositories linked here will stay static, and individual authors may maintain and update their own repositories with more recent materials. We encourage you to go see what they're up to! As always, contributing back and crediting other instructors is greatly appreciated. 
 
-##Section 1 
+<h2>Section 1</h2>
 
-Object 1: Jessica C. Linker’s Turtle Story
+Object 1: Jessica C. Linker’s Turtle Story<br/>
 
-Object 2: Jason Boyd’s Adaptation of Aesop’s “The Crow and the Pitcher”
+Object 2: Jason Boyd’s Adaptation of Aesop’s “The Crow and the Pitcher”<br/>
 
-##Section 2 
+<h2>Section 2</h2>
 
-Object 1: Emily K. Johnson and Anne Sullivan’s BeadED Adventures
+Object 1: Emily K. Johnson and Anne Sullivan’s <i>BeadED Adventures</i><br/>
 
-Object 2: Jordan Sterling Pike’s The Grand Goulding Hotel
+Object 2: Jordan Sterling Pike’s <i>The Grand Goulding Hotel</i><br/>
 
-##Section 3 
+<h2>Section 3</h2>
 
-Object 1: Science AL!VE’s Teaching with Twine Workshop for High School Teachers by Chris Kerslake and Shyong Quin Yap
+Object 1: Science AL!VE’s Teaching with Twine Workshop for High School Teachers by Chris Kerslake and Shyong Quin Yap<br/>
 
-Object 2: Jaime Simons’s Empower Museum Learning with Twine!
+Object 2: Jaime Simons’s Empower Museum Learning with Twine!<br/>
 
 Object 3: Calvin Olsen’s Twi-Ku and Exploded Sonnet
 
-##Section 4
+<h2>Section 4</h2>
 
-Object 1: Mohammed Rashid’s Queer City
+Object 1: Mohammed Rashid’s <i>Queer City</i><br/>
 
-Object 2: Sai Vidyasri Giridharan’s Your Move
+Object 2: Sai Vidyasri Giridharan’s <i>Your Move</i><br/>
 
-Object 3: Shamanth Joshi’s Identity Games
+Object 3: Shamanth Joshi’s <i>Identity Games</i><br/>
 
-Object 4: Lee Skallerup Bessette’s Moving In and Out of Time
+Object 4: Lee Skallerup Bessette’s <i>Moving In and Out of Time</i>
 
 
 
