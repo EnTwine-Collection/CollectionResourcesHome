@@ -8,7 +8,7 @@ You are free to fork, download, adapt, and use these resources. Amherst College 
 
 <h2>Section 1</h2>
 
-Object 1: Jessica C. Linker’s Turtle Story<br/>
+Object 1: Jessica C. Linker’s <i>Turtle Story</i><br/>
 
 Object 2: Jason Boyd’s Adaptation of Aesop’s “The Crow and the Pitcher”<br/>
 
