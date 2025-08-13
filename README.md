@@ -6,7 +6,7 @@ At the links below you'll find all repository material that accompanies the coll
 
 You are free to fork, download, adapt, and use these resources. Amherst College Press material is published under a Creative Commons Attribution-Non Commercial license. The repositories linked here will stay static, and individual authors may maintain and update their own repositories with more recent materials. We encourage you to go see what they're up to! As always, contributing back and crediting other instructors is greatly appreciated. 
 
-<img width="468" height="22" alt="image" src="https://github.com/user-attachments/assets/ea162713-5501-4fc0-b5d8-c86ff925fb78" />
+<img width="468" height="22" alt="image" src="https://github.com/user-attachments/assets/ea162713-5501-4fc0-b5d8-c86ff925fb78"/>
 
 
 
