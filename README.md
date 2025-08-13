@@ -1,5 +1,4 @@
-# EnTwine Collection Resources
-Find all the GitHub resources for the collection _EnTwine_ here!
+# Find all the GitHub resources for the collection _EnTwine_ here!
 
 <img src="./Murphy_Fan_cover_final.jpg" alt="Cover image of EnTwine collection features blue and green squares on a white background. Grey arrows point from one square to another." height="200">
 
