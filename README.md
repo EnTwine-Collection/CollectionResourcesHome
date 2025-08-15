@@ -24,7 +24,7 @@ Object 1: <a href="https://github.com/EnTwine-Collection/Section3_ChrisKerslake_
 
 Object 2: Jaime Simons’s <i>Empower Museum Learning with Twine!</i><br/>
 
-Object 3: Calvin Olsen’s <i>Twi-Ku</> and <i>Exploded Sonnet</i>
+Object 3: Calvin Olsen’s <i>Twi-Ku</i> and <i>Exploded Sonnet</i>
 
 <h2>Section 4</h2>
 
