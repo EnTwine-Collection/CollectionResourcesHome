@@ -22,9 +22,9 @@ Object 2: <a href="https://github.com/EnTwine-Collection/Section2_JordanSterling
 
 Object 1: <a href="https://github.com/EnTwine-Collection/Section3_ChrisKerslake_ShyongQuinYap_ScienceAlive">Science AL!VE’s Teaching with Twine Workshop for High School Teachers by Chris Kerslake and Shyong Quin Yap</a><br/>
 
-Object 2: Jaime Simons’s Empower Museum Learning with Twine!<br/>
+Object 2: Jaime Simons’s <i>Empower Museum Learning with Twine!</i><br/>
 
-Object 3: Calvin Olsen’s Twi-Ku and Exploded Sonnet
+Object 3: Calvin Olsen’s <i>Twi-Ku</> and <i>Exploded Sonnet</i>
 
 <h2>Section 4</h2>
 
