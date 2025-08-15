@@ -14,13 +14,13 @@ Object 2: Jason Boyd’s Adaptation of Aesop’s “The Crow and the Pitcher”<
 
 <h2>Section 2</h2>
 
-Object 1: Emily K. Johnson and Anne Sullivan’s <i>BeadED Adventures</i><br/>
+Object 1: <a href="https://github.com/EnTwine-Collection/Section3_EmilyKJohnsonAndAnneSullivan_BeadEDAdventures">Emily K. Johnson and Anne Sullivan’s <i>BeadED Adventures</i></a><br/>
 
-Object 2: Jordan Sterling Pike’s <i>The Grand Goulding Hotel</i><br/>
+Object 2: <a href="https://github.com/EnTwine-Collection/Section2_JordanSterlingPike_GrandGouldingHotel">Jordan Sterling Pike’s <i>The Grand Goulding Hotel</i><a/><br/>
 
 <h2>Section 3</h2>
 
-Object 1: Science AL!VE’s Teaching with Twine Workshop for High School Teachers by Chris Kerslake and Shyong Quin Yap<br/>
+Object 1: <a href="https://github.com/EnTwine-Collection/Section3_ChrisKerslake_ShyongQuinYap_ScienceAlive">Science AL!VE’s Teaching with Twine Workshop for High School Teachers by Chris Kerslake and Shyong Quin Yap</a><br/>
 
 Object 2: Jaime Simons’s Empower Museum Learning with Twine!<br/>
 
@@ -28,9 +28,9 @@ Object 3: Calvin Olsen’s Twi-Ku and Exploded Sonnet
 
 <h2>Section 4</h2>
 
-Object 1: Mohammed Rashid’s <i>Queer City</i><br/>
+Object 1: <a href="https://github.com/EnTwine-Collection/Section4_MohammedRashid_QueerCity">Mohammed Rashid’s <i>Queer City</i></a><br/>
 
-Object 2: Sai Vidyasri Giridharan’s <i>Your Move</i><br/>
+Object 2: <a href="https://github.com/EnTwine-Collection/Section4_SaiVidyasriGiridharan_YourMove">Sai Vidyasri Giridharan’s <i>Your Move</i></a><br/>
 
 Object 3: Shamanth Joshi’s <i>Identity Games</i><br/>
 
