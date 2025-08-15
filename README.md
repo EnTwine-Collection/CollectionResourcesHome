@@ -32,7 +32,7 @@ Object 1: <a href="https://github.com/EnTwine-Collection/Section4_MohammedRashid
 
 Object 2: <a href="https://github.com/EnTwine-Collection/Section4_SaiVidyasriGiridharan_YourMove">Sai Vidyasri Giridharan’s <i>Your Move</i></a><br/>
 
-Object 3: Shamanth Joshi’s <i>Identity Games</i><br/>
+Object 3: <a href="https://github.com/EnTwine-Collection/Section4_ShamanthJoshi_IdentityGames">Shamanth Joshi’s <i>Identity Games</i></a><br/>
 
 Object 4: <a href="https://github.com/EnTwine-Collection/Section4_LeeSkallerupBessette_MovingInAndOutOfTime">Lee Skallerup Bessette’s <i>Moving In and Out of Time</i></a>
 
